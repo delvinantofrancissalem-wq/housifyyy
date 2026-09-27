@@ -1,0 +1,6 @@
+{
+  "name": "Architron Civil & BOQ Estimator",
+  "description": "Professional Civil Engineering Bill of Quantities (BOQ), interactive architectural blueprint generator, and itemized construction cost estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
